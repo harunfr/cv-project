@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-wrap: nowrap; */
+  min-width: 40vw;
+  max-width: 60vw;
+  min-height: 3vw;
+}
+form {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-wrap: nowrap; */
+  min-width: 40vw;
+  max-width: 80vw;
+}
+button[type="submit"] {
+  position: absolute;
+  right: 0;
+}
+label {
+  position: absolute;
+  left: 0;
+}
+input[type="text"] {
+  position: absolute;
+  left: 20%;
+  right: 20%;
+}
+.submit-value {
+}
