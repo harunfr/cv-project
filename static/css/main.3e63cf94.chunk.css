@@ -1,0 +1,2 @@
+.App{display:grid;grid-template-columns:50% 50%;grid-template-rows:50% 50%}.form{max-width:60vw;min-height:3vw}.form,form{display:flex;justify-content:center;align-items:center;min-width:40vw}form{position:relative;max-width:80vw}button[type=submit]{position:absolute;right:0}label{position:absolute;left:0}input[type=text]{position:absolute;left:20%;right:20%}div{color:#000}.avatar{width:25%;height:45%}
+/*# sourceMappingURL=main.3e63cf94.chunk.css.map */
